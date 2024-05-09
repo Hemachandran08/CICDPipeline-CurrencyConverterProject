@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#container{
+ margin-top: 80px;
+ 
+}
+
+body{
+  background-image: url('https://st3.depositphotos.com/4187167/16819/i/1600/depositphotos_168190334-stock-photo-indian-money-background.jpg');
+}
+
+.text{
+  width: 100%;
+  /* margin-top: 20px; */
+}
+
+.abc{
+  margin-top: 10px;
+}
+
+h5{
+  margin-top: 10px;
+}
+
+Button{
+  left: 75%;
+  margin-top: 10px;
+}
+
+h6{
+  margin-top: 20px;
+}
+
